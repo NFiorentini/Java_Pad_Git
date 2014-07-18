@@ -4,7 +4,7 @@ CS211 Summer 2012
 Assignment 7, Ch14
 JavaPadNAF
 29 July 2012
-JavaPadNAF.java 
+JavaPad.java 
  */
 
 import java.awt.BorderLayout;
@@ -384,8 +384,7 @@ public class JavaPad{
 	}
 }	
 
-// Comment added, Pro Git Pg 16, changing a previously tracked file.
-// Another awesome comment, Pg 17.
+
 
 
 
